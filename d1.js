@@ -1,6 +1,8 @@
-function define(){
-    return(
-        consoel.log('everything is foinr')
-    )
+function define(a,b){
+
+return(
+console.log(a+b)
+)
+    
 }
-define()
+define(10,20)
